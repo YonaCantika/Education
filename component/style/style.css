@@ -542,7 +542,7 @@ h1 {
   height: auto;
 }
 
-/* Fasilitas Style */
+/* gallery style */
 .gallery {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -606,3 +606,4 @@ h1 {
 .covering:hover .text-overlay {
   opacity: 1;
 }
+
